@@ -1,6 +1,6 @@
 # MyERC20
 
-<\br>🔮 ERC20 project for week 6: https://university.alchemy.com/course/ethereum/md/614ba41acd2a86000413f77a
+🔮 ERC20 project for week 6: https://university.alchemy.com/course/ethereum/md/614ba41acd2a86000413f77a
 <\br>🗓️ 29th Dec: basic functions finished, updated `deploy.js` for ethers v6
 <\br>✨ check my outcome at Sepolia Testnet! https://sepolia.etherscan.io/address/0xeB42E33EeB55f2b2AEa091f0aC042c730dba2750
 <\br>⚙️ Workflow on Terminal:
